@@ -1,0 +1,6 @@
+{
+  "name": "متجر ملحقات آبل الذكية | باقة القوة والصوت",
+  "description": "صفحة هبوط تسوق عصرية وفاخرة لباور بانك ماج سيف 8000mAh وسماعات إيربودز 4 سيمي أوريجينال مع حساب فوري لمصاريف الشحن لجميع المحافظات والدفع عند الاستلام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
